@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Guardar">Recursos/Save.ico</file>
+        <file>Recursos/estadistica.png</file>
+        <file>Recursos/salida (1).png</file>
+    </qresource>
+</RCC>
